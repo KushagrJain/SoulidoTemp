@@ -1,7 +1,529 @@
 fileFormatVersion: 2
 guid: 950f2762c8b803742bac5cf519c1e03b
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 6940859048217555840
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_0
+  - first:
+      213: 2451436290521555853
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_1
+  - first:
+      213: 2576545552762055075
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_2
+  - first:
+      213: -6999685726794976119
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_3
+  - first:
+      213: 973989363143547898
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_4
+  - first:
+      213: -6096797014763188149
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_5
+  - first:
+      213: 2063751099777099950
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_6
+  - first:
+      213: 7894963718145334829
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_7
+  - first:
+      213: -7892050077899402134
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_8
+  - first:
+      213: 5577599771459858834
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_9
+  - first:
+      213: -5533760708211721667
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_10
+  - first:
+      213: -5809483292350218682
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_11
+  - first:
+      213: 6085005155031230196
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_12
+  - first:
+      213: -5913009840591283278
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_13
+  - first:
+      213: 800647931037113096
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_14
+  - first:
+      213: -4635305377238680304
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_15
+  - first:
+      213: -968246466690199739
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_16
+  - first:
+      213: -5435427054411753195
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_17
+  - first:
+      213: 5768697046240077262
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_18
+  - first:
+      213: -4704960365876114507
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_19
+  - first:
+      213: -6944460736879250054
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_20
+  - first:
+      213: 11016947635643272
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_21
+  - first:
+      213: 6981054393849520352
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_22
+  - first:
+      213: -7161561803982392789
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_23
+  - first:
+      213: 4055991215792284604
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_24
+  - first:
+      213: 5100711142937449299
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_25
+  - first:
+      213: 268310642120099029
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_26
+  - first:
+      213: 5485805738927714032
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_27
+  - first:
+      213: -2050466843292208082
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_28
+  - first:
+      213: -3155369193044558112
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_29
+  - first:
+      213: 354931527489325892
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_30
+  - first:
+      213: -1814824582861675088
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_31
+  - first:
+      213: 6063436482258711887
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_32
+  - first:
+      213: 2317944890997104983
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_33
+  - first:
+      213: -2084473396797456368
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_34
+  - first:
+      213: 1291145569197478791
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_35
+  - first:
+      213: 5777939066601322468
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_36
+  - first:
+      213: 1656340652744931063
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_37
+  - first:
+      213: -6763272737367931220
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_38
+  - first:
+      213: 1973080822885837590
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_39
+  - first:
+      213: -667893253248914045
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_40
+  - first:
+      213: 1744471996785232683
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_41
+  - first:
+      213: -8437067899237924651
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_42
+  - first:
+      213: -8105475555463984149
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_43
+  - first:
+      213: 8583838179091729645
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_44
+  - first:
+      213: 4646116992498743024
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_45
+  - first:
+      213: 6580262731262563426
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_46
+  - first:
+      213: -9218197848819472394
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_47
+  - first:
+      213: 1323928399610878969
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_48
+  - first:
+      213: -981856376837033833
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_49
+  - first:
+      213: 142102724624260129
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_50
+  - first:
+      213: -601116063698510475
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_51
+  - first:
+      213: -210781103074067234
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_52
+  - first:
+      213: 3102758912001620780
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_53
+  - first:
+      213: 4059480414788989666
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_54
+  - first:
+      213: 5594217848261802895
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_55
+  - first:
+      213: -6690147106305275562
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_56
+  - first:
+      213: -6128157376213666748
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_57
+  - first:
+      213: -6178664756985217062
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_58
+  - first:
+      213: -7853434117333597334
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_59
+  - first:
+      213: 6017122934369766755
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_60
+  - first:
+      213: 7498829021587848667
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_61
+  - first:
+      213: 4062960001786521424
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_62
+  - first:
+      213: 8845886385412991402
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_63
+  - first:
+      213: -2130826784440120107
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_64
+  - first:
+      213: 7354462180556229561
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_65
+  - first:
+      213: -606524632184820475
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_66
+  - first:
+      213: -8390965461115594179
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_67
+  - first:
+      213: -8943087806735675673
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_68
+  - first:
+      213: -4744979266558817693
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_69
+  - first:
+      213: 5922976303885993713
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_70
+  - first:
+      213: -8509948128538157991
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_71
+  - first:
+      213: 2853046150696659834
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_72
+  - first:
+      213: 6809130386648626624
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_73
+  - first:
+      213: -4277117040235500105
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_74
+  - first:
+      213: -5489036329267371832
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_75
+  - first:
+      213: 8872654164123236933
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_76
+  - first:
+      213: 6862543351146919484
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_77
+  - first:
+      213: -4660189735372943959
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_78
+  - first:
+      213: -5059437466992796498
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_79
+  - first:
+      213: 1807133405784131666
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_80
+  - first:
+      213: -4763083631060807532
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_81
+  - first:
+      213: 4461562250349106160
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_82
+  - first:
+      213: 9153675905607582936
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_83
+  - first:
+      213: -3351169261930024227
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_84
+  - first:
+      213: -4560028160778031996
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_85
+  - first:
+      213: -7295481277254611397
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_86
+  - first:
+      213: -5927874848985826790
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_87
+  - first:
+      213: -270650361523217928
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_88
+  - first:
+      213: -5716666600929759942
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_89
+  - first:
+      213: -4890506477817987561
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_90
+  - first:
+      213: -2862482672126304070
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_91
+  - first:
+      213: -7819022171399629816
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_92
+  - first:
+      213: -4354596864747991076
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_93
+  - first:
+      213: -9151381522807764
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_94
+  - first:
+      213: -2849827083915608989
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_95
+  - first:
+      213: -7889152790740538556
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_96
+  - first:
+      213: -3672481594979543877
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_97
+  - first:
+      213: -4698132016281762365
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_98
+  - first:
+      213: 9124763505376258643
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_99
+  - first:
+      213: -7251965655978732829
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_100
+  - first:
+      213: 2614585633926266148
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_101
+  - first:
+      213: 4825102163295092280
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_102
+  - first:
+      213: 1184521033735527532
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_103
+  - first:
+      213: -1666149738358471776
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_104
+  - first:
+      213: -1619745975793287203
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_105
+  - first:
+      213: 8873467584252639268
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_106
+  - first:
+      213: -2401140814289107485
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_107
+  - first:
+      213: 3061450051757516200
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_108
+  - first:
+      213: 644840920195170441
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_109
+  - first:
+      213: -7405712216170557175
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_110
+  - first:
+      213: -7772858576412157782
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_111
+  - first:
+      213: 401277858219631185
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_112
+  - first:
+      213: -9177071641512323782
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_113
+  - first:
+      213: -1140277393440915550
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_114
+  - first:
+      213: 8791723752777069888
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_115
+  - first:
+      213: 4408743971071552652
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_116
+  - first:
+      213: 4275438577515193324
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_117
+  - first:
+      213: -627251604857646344
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_118
+  - first:
+      213: -855007114103674092
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_119
+  - first:
+      213: -1267525424289748470
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_120
+  - first:
+      213: -2871490000613728666
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_121
+  - first:
+      213: -6488936419132609264
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_122
+  - first:
+      213: -8090030525814747254
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_123
+  - first:
+      213: -8881162242150317778
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_124
+  - first:
+      213: 7915555785475833599
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_125
+  - first:
+      213: -5046218402058365948
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_126
+  - first:
+      213: 367446645016952053
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_127
+  - first:
+      213: 377385547097884777
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_128
+  - first:
+      213: -2488350946444545033
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_129
+  - first:
+      213: -5758233012450572427
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_130
+  - first:
+      213: -4230454834375528961
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_131
+  - first:
+      213: 4277291986289024857
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_132
+  - first:
+      213: -2575530980154013228
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_133
+  - first:
+      213: -157882697576750503
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_134
+  - first:
+      213: 1273434247532430338
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_135
+  - first:
+      213: 8977760681352152614
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_136
+  - first:
+      213: 7521278182589135932
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_137
+  - first:
+      213: 8487188303905102375
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_138
+  - first:
+      213: 2129030618057194356
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_139
+  - first:
+      213: -8998331770310433989
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_140
+  - first:
+      213: -6649025033423615455
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_141
+  - first:
+      213: 5409945060005753933
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_142
+  - first:
+      213: 4719714963572516282
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_143
+  - first:
+      213: 4471939098059476650
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_144
+  - first:
+      213: 4111785373296764731
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_145
+  - first:
+      213: -6091453813338825404
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_146
+  - first:
+      213: -1734395677731059971
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_147
+  - first:
+      213: 3540245016560068216
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_148
+  - first:
+      213: -3219169905410973919
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_149
+  - first:
+      213: -3129341166413133599
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_150
+  - first:
+      213: 1133442386026205834
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_151
+  - first:
+      213: 586687871896282547
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_152
+  - first:
+      213: 8135083056557252199
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_153
+  - first:
+      213: -4817678458869671055
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_154
+  - first:
+      213: 2062546980636356966
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_155
+  - first:
+      213: -557964660406148348
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_156
+  - first:
+      213: -2077397921700939983
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_157
+  - first:
+      213: 8062373495529608767
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_158
+  - first:
+      213: -2526636727344206809
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_159
+  - first:
+      213: 1303533975026894191
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_160
+  - first:
+      213: 2978220268512037265
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_161
+  - first:
+      213: -4348052014327821169
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_162
+  - first:
+      213: -8546818398182315636
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_163
+  - first:
+      213: -3820261428061410878
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_164
+  - first:
+      213: -915219862381626563
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_165
+  - first:
+      213: 7909377927789255685
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_166
+  - first:
+      213: -5881659445839899683
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_167
+  - first:
+      213: 8891874935068080663
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_168
+  - first:
+      213: 3300244961739183995
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_169
+  - first:
+      213: 5750294381152296354
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_170
+  - first:
+      213: -2133503126656250833
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_171
+  - first:
+      213: 7138938772117109437
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_172
+  - first:
+      213: 6499801425023124725
+    second: s4m_ur4i_huge-assetpack-enemies-animations-sheet_173
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -32,21 +554,21 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
-    aniso: -1
-    mipBias: -100
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 11
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -68,7 +590,43 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -77,7 +635,3661 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0833015b782e25060800000000000000
+      internalID: 6940859048217555840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83e9066150450220800000000000000
+      internalID: 2451436290521555853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9aef3778ab1c320800000000000000
+      internalID: 2576545552762055075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984730bdaee1cde90800000000000000
+      internalID: -6999685726794976119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 0
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb1e255a2e448d00800000000000000
+      internalID: 973989363143547898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40d063da63d36ba0800000000000000
+      internalID: -6096797014763188149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 0
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea82907e0bae3ac10800000000000000
+      internalID: 2063751099777099950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 0
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e56ae1cab809d60800000000000000
+      internalID: 7894963718145334829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 0
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64563d944ec97290800000000000000
+      internalID: -7892050077899402134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2913a25d07d976d40800000000000000
+      internalID: 5577599771459858834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ab60b74f12433b0800000000000000
+      internalID: -5533760708211721667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 0
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ef5eeb9b1906fa0800000000000000
+      internalID: -5809483292350218682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 0
+        width: 50
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6ae02e2f7427450800000000000000
+      internalID: 6085005155031230196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbda22e0e4c0fda0800000000000000
+      internalID: -5913009840591283278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 0
+        width: 50
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b5e9f1d097c1b00800000000000000
+      internalID: 800647931037113096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 0
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01dfa3c71561cafb0800000000000000
+      internalID: -4635305377238680304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 0
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f47e1f7f81092f0800000000000000
+      internalID: -968246466690199739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 0
+        width: 110
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5195d3364eb7194b0800000000000000
+      internalID: -5435427054411753195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 0
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec52cf156678e0050800000000000000
+      internalID: 5768697046240077262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 0
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb89a5a97f94beb0800000000000000
+      internalID: -4704960365876114507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 0
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a753aadc0c150af90800000000000000
+      internalID: -6944460736879250054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 0
+        width: 50
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883e4520bd3272000800000000000000
+      internalID: 11016947635643272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_22
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 0
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0a417ebffa1e060800000000000000
+      internalID: 6981054393849520352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_23
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 0
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22bf9c9b750d9c90800000000000000
+      internalID: -7161561803982392789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_24
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 0
+        width: 467
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3676d6586c94830800000000000000
+      internalID: 4055991215792284604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_25
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 0
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353d9a082cd59c640800000000000000
+      internalID: 5100711142937449299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_26
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 0
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d486018b1b39b300800000000000000
+      internalID: 268310642120099029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_27
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 0
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fee597214f712c40800000000000000
+      internalID: 5485805738927714032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_28
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 0
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24f9d515474b83e0800000000000000
+      internalID: -2050466843292208082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_29
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 0
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee3e51df60e534d0800000000000000
+      internalID: -3155369193044558112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_30
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 0
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b869ff758fce400800000000000000
+      internalID: 354931527489325892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_31
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 0
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b522e048a270d6e0800000000000000
+      internalID: -1814824582861675088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 0
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45bc2bea57a52450800000000000000
+      internalID: 6063436482258711887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 0
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75160dce89efa2020800000000000000
+      internalID: 2317944890997104983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 0
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010c2285d767213e0800000000000000
+      internalID: -2084473396797456368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 0
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783d55ded021be110800000000000000
+      internalID: 1291145569197478791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 0
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7bf9ed7fc5f2050800000000000000
+      internalID: 5777939066601322468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 0
+        width: 141
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f676e94c018cf610800000000000000
+      internalID: 1656340652744931063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 0
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6c91a57470422a0800000000000000
+      internalID: -6763272737367931220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 0
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bee39fd8ac16b10800000000000000
+      internalID: 1973080822885837590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 0
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38de734ff9a2bb6f0800000000000000
+      internalID: -667893253248914045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 0
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b0009d90c953810800000000000000
+      internalID: 1744471996785232683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_42
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 0
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d08218727389ea80800000000000000
+      internalID: -8437067899237924651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_43
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 0
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb05fc4de0938f80800000000000000
+      internalID: -8105475555463984149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_44
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 0
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decc232485bef1770800000000000000
+      internalID: 8583838179091729645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_45
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 0
+        width: 110
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f63bcad9c25a7040800000000000000
+      internalID: 4646116992498743024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_46
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 0
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26495a1271ac15b50800000000000000
+      internalID: 6580262731262563426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_47
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 0
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f768d785e1621080800000000000000
+      internalID: -9218197848819472394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_48
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 0
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb9bde6dd98f5210800000000000000
+      internalID: 1323928399610878969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_49
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 0
+        width: 290
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7903d2ec3debf52f0800000000000000
+      internalID: -981856376837033833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_50
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 0
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c18d6dca9d8f100800000000000000
+      internalID: 142102724624260129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_51
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 0
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d187aff1868a7f0800000000000000
+      internalID: -601116063698510475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_52
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 0
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcb7e914b7231df0800000000000000
+      internalID: -210781103074067234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_53
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 0
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bb8859ac63f0b20800000000000000
+      internalID: 3102758912001620780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_54
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 0
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e23720edeb265830800000000000000
+      internalID: 4059480414788989666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_55
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 0
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b7bc95e77a2ad40800000000000000
+      internalID: 5594217848261802895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_56
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 0
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659019917a2d723a0800000000000000
+      internalID: -6690147106305275562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_57
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 0
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444381fa55964faa0800000000000000
+      internalID: -6128157376213666748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_58
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 0
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfbba5b329f04aa0800000000000000
+      internalID: -6178664756985217062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_59
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 0
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63c561974ff20390800000000000000
+      internalID: -7853434117333597334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_60
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 0
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d47f0cd6d118350800000000000000
+      internalID: 6017122934369766755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_61
+      rect:
+        serializedVersion: 2
+        x: 2165
+        y: 0
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd322fb341311860800000000000000
+      internalID: 7498829021587848667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_62
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 0
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0572b1b5898826830800000000000000
+      internalID: 4062960001786521424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_63
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 0
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9610eccc6e2ca70800000000000000
+      internalID: 8845886385412991402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_64
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 0
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc0f834458cd62e0800000000000000
+      internalID: -2130826784440120107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_65
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 0
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb491a336c401660800000000000000
+      internalID: 7354462180556229561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_66
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 0
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d691f7f013597f0800000000000000
+      internalID: -606524632184820475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_67
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 0
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a12afce5d4d8b80800000000000000
+      internalID: -8390965461115594179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_68
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 0
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee8464b505c3e380800000000000000
+      internalID: -8943087806735675673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_69
+      rect:
+        serializedVersion: 2
+        x: 2286
+        y: 0
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a0b2e3f72762eb0800000000000000
+      internalID: -4744979266558817693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_70
+      rect:
+        serializedVersion: 2
+        x: 2221
+        y: 0
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f64e2e2193a23250800000000000000
+      internalID: 5922976303885993713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_71
+      rect:
+        serializedVersion: 2
+        x: 2251
+        y: 0
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c9b75c34796e980800000000000000
+      internalID: -8509948128538157991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_72
+      rect:
+        serializedVersion: 2
+        x: 2311
+        y: 0
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7be114ab5e089720800000000000000
+      internalID: 2853046150696659834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_73
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 0
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c57285a204ee7e50800000000000000
+      internalID: 6809130386648626624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_74
+      rect:
+        serializedVersion: 2
+        x: 2347
+        y: 0
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd2ef986b0a4a4c0800000000000000
+      internalID: -4277117040235500105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_75
+      rect:
+        serializedVersion: 2
+        x: 2401
+        y: 0
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0edca6a8603d3b0800000000000000
+      internalID: -5489036329267371832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_76
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 0
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ab473f3fff12b70800000000000000
+      internalID: 8872654164123236933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_77
+      rect:
+        serializedVersion: 2
+        x: 2431
+        y: 0
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36b4dc81d6ac3f50800000000000000
+      internalID: 6862543351146919484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_78
+      rect:
+        serializedVersion: 2
+        x: 2462
+        y: 0
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad8c2d502ea35fb0800000000000000
+      internalID: -4660189735372943959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_79
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 0
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac97980e6449c9b0800000000000000
+      internalID: -5059437466992796498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_80
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 0
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2584189024a341910800000000000000
+      internalID: 1807133405784131666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_81
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 0
+        width: 537
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49094276ca026edb0800000000000000
+      internalID: -4763083631060807532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_82
+      rect:
+        serializedVersion: 2
+        x: 2583
+        y: 0
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3d9537a37aaed30800000000000000
+      internalID: 4461562250349106160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_83
+      rect:
+        serializedVersion: 2
+        x: 2977
+        y: 0
+        width: 168
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4cac6ecb3680f70800000000000000
+      internalID: 9153675905607582936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_84
+      rect:
+        serializedVersion: 2
+        x: 3095
+        y: 0
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2f370cf414e71d0800000000000000
+      internalID: -3351169261930024227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_85
+      rect:
+        serializedVersion: 2
+        x: 3155
+        y: 0
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c2c0f3c8687b0c0800000000000000
+      internalID: -4560028160778031996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_86
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 0
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ec9b37e6e31ca90800000000000000
+      internalID: -7295481277254611397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_87
+      rect:
+        serializedVersion: 2
+        x: 3216
+        y: 0
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a3a396b35fbbda0800000000000000
+      internalID: -5927874848985826790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_88
+      rect:
+        serializedVersion: 2
+        x: 3245
+        y: 0
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9d31f1ee47e3cf0800000000000000
+      internalID: -270650361523217928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_89
+      rect:
+        serializedVersion: 2
+        x: 3275
+        y: 0
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ded30c3025aa0b0800000000000000
+      internalID: -5716666600929759942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_90
+      rect:
+        serializedVersion: 2
+        x: 3301
+        y: 0
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e79e9f44e612cb0800000000000000
+      internalID: -4890506477817987561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_91
+      rect:
+        serializedVersion: 2
+        x: 3331
+        y: 0
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab063300d2b6648d0800000000000000
+      internalID: -2862482672126304070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_92
+      rect:
+        serializedVersion: 2
+        x: 3365
+        y: 0
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80452d613c04d7390800000000000000
+      internalID: -7819022171399629816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_93
+      rect:
+        serializedVersion: 2
+        x: 3396
+        y: 0
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf8aa0293d5193c0800000000000000
+      internalID: -4354596864747991076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_94
+      rect:
+        serializedVersion: 2
+        x: 3425
+        y: 0
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c240123fddc7fdff0800000000000000
+      internalID: -9151381522807764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_95
+      rect:
+        serializedVersion: 2
+        x: 3455
+        y: 0
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c3cefbd516378d0800000000000000
+      internalID: -2849827083915608989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_96
+      rect:
+        serializedVersion: 2
+        x: 3486
+        y: 2
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44be029d559148290800000000000000
+      internalID: -7889152790740538556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_97
+      rect:
+        serializedVersion: 2
+        x: 3517
+        y: 0
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4951f6279b80dc0800000000000000
+      internalID: -3672481594979543877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_98
+      rect:
+        serializedVersion: 2
+        x: 3546
+        y: 0
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5c2ada2d1ecceb0800000000000000
+      internalID: -4698132016281762365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_99
+      rect:
+        serializedVersion: 2
+        x: 3574
+        y: 0
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a6665201ca1ae70800000000000000
+      internalID: 9124763505376258643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_100
+      rect:
+        serializedVersion: 2
+        x: 3607
+        y: 1
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e21e0098a7db5b90800000000000000
+      internalID: -7251965655978732829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_101
+      rect:
+        serializedVersion: 2
+        x: 3630
+        y: 4
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42db30908cfd84420800000000000000
+      internalID: 2614585633926266148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_102
+      rect:
+        serializedVersion: 2
+        x: 3663
+        y: 10
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e3c206ad436f240800000000000000
+      internalID: 4825102163295092280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_103
+      rect:
+        serializedVersion: 2
+        x: 3697
+        y: 10
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6cd8c4ba93407010800000000000000
+      internalID: 1184521033735527532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_104
+      rect:
+        serializedVersion: 2
+        x: 3726
+        y: 10
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3888ef3a5a0e8e0800000000000000
+      internalID: -1666149738358471776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_105
+      rect:
+        serializedVersion: 2
+        x: 3758
+        y: 10
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddff876ed918589e0800000000000000
+      internalID: -1619745975793287203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_106
+      rect:
+        serializedVersion: 2
+        x: 3787
+        y: 10
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428725511c3e42b70800000000000000
+      internalID: 8873467584252639268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_107
+      rect:
+        serializedVersion: 2
+        x: 3820
+        y: 10
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e50b94b62f6daed0800000000000000
+      internalID: -2401140814289107485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_108
+      rect:
+        serializedVersion: 2
+        x: 3841
+        y: 0
+        width: 354
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5ab901a947c7a20800000000000000
+      internalID: 3061450051757516200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_109
+      rect:
+        serializedVersion: 2
+        x: 3841
+        y: 0
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9808ed0866fe2f800800000000000000
+      internalID: 644840920195170441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_110
+      rect:
+        serializedVersion: 2
+        x: 3871
+        y: 0
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901126ef9ff993990800000000000000
+      internalID: -7405712216170557175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_111
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 0
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8da9f9e42412490800000000000000
+      internalID: -7772858576412157782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_112
+      rect:
+        serializedVersion: 2
+        x: 3931
+        y: 0
+        width: 58
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15229630610a19500800000000000000
+      internalID: 401277858219631185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_113
+      rect:
+        serializedVersion: 2
+        x: 3992
+        y: 0
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35d859d6fd74a080800000000000000
+      internalID: -9177071641512323782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_114
+      rect:
+        serializedVersion: 2
+        x: 4021
+        y: 0
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afbb8a80cbec20f0800000000000000
+      internalID: -1140277393440915550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_115
+      rect:
+        serializedVersion: 2
+        x: 4051
+        y: 0
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04534af2c2a720a70800000000000000
+      internalID: 8791723752777069888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_116
+      rect:
+        serializedVersion: 2
+        x: 4082
+        y: 0
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c6d5d78410f2d30800000000000000
+      internalID: 4408743971071552652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_117
+      rect:
+        serializedVersion: 2
+        x: 4113
+        y: 0
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce36bc7ebb8655b30800000000000000
+      internalID: 4275438577515193324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_118
+      rect:
+        serializedVersion: 2
+        x: 4142
+        y: 0
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f29aab1dfd8b47f0800000000000000
+      internalID: -627251604857646344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_119
+      rect:
+        serializedVersion: 2
+        x: 4206
+        y: 0
+        width: 197
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b2b6b4f876224f0800000000000000
+      internalID: -855007114103674092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_120
+      rect:
+        serializedVersion: 2
+        x: 4417
+        y: 0
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0aee6d9758d86ee0800000000000000
+      internalID: -1267525424289748470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_121
+      rect:
+        serializedVersion: 2
+        x: 4418
+        y: 0
+        width: 614
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e1559ee0b6628d0800000000000000
+      internalID: -2871490000613728666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_122
+      rect:
+        serializedVersion: 2
+        x: 4564
+        y: 0
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d6187e4baa2f5a0800000000000000
+      internalID: -6488936419132609264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_123
+      rect:
+        serializedVersion: 2
+        x: 4594
+        y: 0
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8fcebe79107abf80800000000000000
+      internalID: -8090030525814747254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_124
+      rect:
+        serializedVersion: 2
+        x: 4625
+        y: 0
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21c404cef5cfb480800000000000000
+      internalID: -8881162242150317778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_125
+      rect:
+        serializedVersion: 2
+        x: 4654
+        y: 0
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe33196c04b9dd60800000000000000
+      internalID: 7915555785475833599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_126
+      rect:
+        serializedVersion: 2
+        x: 4684
+        y: 0
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404954e691b38f9b0800000000000000
+      internalID: -5046218402058365948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_127
+      rect:
+        serializedVersion: 2
+        x: 4715
+        y: 0
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcf42ed6ce691500800000000000000
+      internalID: 367446645016952053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_128
+      rect:
+        serializedVersion: 2
+        x: 4744
+        y: 0
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968c226d72ebc3500800000000000000
+      internalID: 377385547097884777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_129
+      rect:
+        serializedVersion: 2
+        x: 4774
+        y: 0
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f37aa08ff9977dd0800000000000000
+      internalID: -2488350946444545033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_130
+      rect:
+        serializedVersion: 2
+        x: 4805
+        y: 0
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577c4f66595a610b0800000000000000
+      internalID: -5758233012450572427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_131
+      rect:
+        serializedVersion: 2
+        x: 4834
+        y: 0
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd66b6fdb76a45c0800000000000000
+      internalID: -4230454834375528961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_132
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 0
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fd163466efb5b30800000000000000
+      internalID: 4277291986289024857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_133
+      rect:
+        serializedVersion: 2
+        x: 4926
+        y: 0
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d908e32830e14cd0800000000000000
+      internalID: -2575530980154013228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_134
+      rect:
+        serializedVersion: 2
+        x: 4957
+        y: 0
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952e1c6e5861fcdf0800000000000000
+      internalID: -157882697576750503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_135
+      rect:
+        serializedVersion: 2
+        x: 4985
+        y: 0
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204ccf083b52ca110800000000000000
+      internalID: 1273434247532430338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_136
+      rect:
+        serializedVersion: 2
+        x: 5047
+        y: 0
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626c67206c9679c70800000000000000
+      internalID: 8977760681352152614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_137
+      rect:
+        serializedVersion: 2
+        x: 5072
+        y: 0
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3cfe1a58a2f06860800000000000000
+      internalID: 7521278182589135932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_138
+      rect:
+        serializedVersion: 2
+        x: 5078
+        y: 0
+        width: 50
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a1d1c9bcc88c570800000000000000
+      internalID: 8487188303905102375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_139
+      rect:
+        serializedVersion: 2
+        x: 5132
+        y: 0
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47bba392116db8d10800000000000000
+      internalID: 2129030618057194356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_140
+      rect:
+        serializedVersion: 2
+        x: 5137
+        y: 0
+        width: 407
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33e88b1ee08f1380800000000000000
+      internalID: -8998331770310433989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_141
+      rect:
+        serializedVersion: 2
+        x: 5166
+        y: 0
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a0b1cc5fae9b3a0800000000000000
+      internalID: -6649025033423615455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_142
+      rect:
+        serializedVersion: 2
+        x: 5286
+        y: 0
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44b5047e5cf31b40800000000000000
+      internalID: 5409945060005753933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_143
+      rect:
+        serializedVersion: 2
+        x: 5315
+        y: 0
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5e5d4d0cbcf7140800000000000000
+      internalID: 4719714963572516282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_144
+      rect:
+        serializedVersion: 2
+        x: 5345
+        y: 0
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae04059ae48f0e30800000000000000
+      internalID: 4471939098059476650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_145
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 0
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b372008030fff0930800000000000000
+      internalID: 4111785373296764731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_146
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 0
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d9d3ad70fc67ba0800000000000000
+      internalID: -6091453813338825404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_147
+      rect:
+        serializedVersion: 2
+        x: 5438
+        y: 0
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df60ed002503ee7e0800000000000000
+      internalID: -1734395677731059971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_148
+      rect:
+        serializedVersion: 2
+        x: 5466
+        y: 0
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876e8e5e51a712130800000000000000
+      internalID: 3540245016560068216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_149
+      rect:
+        serializedVersion: 2
+        x: 5492
+        y: 0
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12fd954e6063353d0800000000000000
+      internalID: -3219169905410973919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_150
+      rect:
+        serializedVersion: 2
+        x: 5557
+        y: 0
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e840f20ac85294d0800000000000000
+      internalID: -3129341166413133599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_151
+      rect:
+        serializedVersion: 2
+        x: 5587
+        y: 0
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82967848dbcabf00800000000000000
+      internalID: 1133442386026205834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_152
+      rect:
+        serializedVersion: 2
+        x: 5618
+        y: 0
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b56866d285542800800000000000000
+      internalID: 586687871896282547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_153
+      rect:
+        serializedVersion: 2
+        x: 5648
+        y: 0
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ed46c30fe95e070800000000000000
+      internalID: 8135083056557252199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_154
+      rect:
+        serializedVersion: 2
+        x: 5677
+        y: 0
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b950187fa242db0800000000000000
+      internalID: -4817678458869671055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_155
+      rect:
+        serializedVersion: 2
+        x: 5708
+        y: 0
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66172611d83af9c10800000000000000
+      internalID: 2062546980636356966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_156
+      rect:
+        serializedVersion: 2
+        x: 5739
+        y: 0
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403254bf816b148f0800000000000000
+      internalID: -557964660406148348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_157
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 0
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13771e3c8999b23e0800000000000000
+      internalID: -2077397921700939983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_158
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 0
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3611975afd43ef60800000000000000
+      internalID: 8062373495529608767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_159
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 0
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c613e78459fecd0800000000000000
+      internalID: -2526636727344206809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_160
+      rect:
+        serializedVersion: 2
+        x: 4206
+        y: 0
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65812e6e35171210800000000000000
+      internalID: 1303533975026894191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_161
+      rect:
+        serializedVersion: 2
+        x: 4237
+        y: 0
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199478f0e83c45920800000000000000
+      internalID: 2978220268512037265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_162
+      rect:
+        serializedVersion: 2
+        x: 4268
+        y: 0
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c811ddabd98a3c0800000000000000
+      internalID: -4348052014327821169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_163
+      rect:
+        serializedVersion: 2
+        x: 4297
+        y: 0
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89e19823f9936980800000000000000
+      internalID: -8546818398182315636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_164
+      rect:
+        serializedVersion: 2
+        x: 4327
+        y: 0
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9e547c874bbfac0800000000000000
+      internalID: -3820261428061410878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_165
+      rect:
+        serializedVersion: 2
+        x: 4358
+        y: 0
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b7c5b526c7c43f0800000000000000
+      internalID: -915219862381626563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_166
+      rect:
+        serializedVersion: 2
+        x: 4446
+        y: 0
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c9134d151c3cd60800000000000000
+      internalID: 7909377927789255685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_167
+      rect:
+        serializedVersion: 2
+        x: 4476
+        y: 0
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd354e875e5206ea0800000000000000
+      internalID: -5881659445839899683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_168
+      rect:
+        serializedVersion: 2
+        x: 4507
+        y: 0
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71abeeb6429466b70800000000000000
+      internalID: 8891874935068080663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_169
+      rect:
+        serializedVersion: 2
+        x: 4538
+        y: 0
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b779c38ae43dccd20800000000000000
+      internalID: 3300244961739183995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_170
+      rect:
+        serializedVersion: 2
+        x: 4894
+        y: 0
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2add186f5462dcf40800000000000000
+      internalID: 5750294381152296354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_171
+      rect:
+        serializedVersion: 2
+        x: 5196
+        y: 0
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c0878c5364462e0800000000000000
+      internalID: -2133503126656250833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_172
+      rect:
+        serializedVersion: 2
+        x: 5225
+        y: 0
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbabd415dfa921360800000000000000
+      internalID: 7138938772117109437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: s4m_ur4i_huge-assetpack-enemies-animations-sheet_173
+      rect:
+        serializedVersion: 2
+        x: 5255
+        y: 0
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4c41965fee33a50800000000000000
+      internalID: 6499801425023124725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
